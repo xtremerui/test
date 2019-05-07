@@ -21,7 +21,7 @@ run:
     cd node-example
     echo "before node install"
     ls node_modules
-    node install
+    npm install
     echo "after node install"
     ls node_modules
 
